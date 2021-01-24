@@ -1,0 +1,4 @@
+{
+    "name": "It's a Match (Dev)",
+    "mongodb": "mongodb://localhost/playground"
+}
