@@ -9,8 +9,8 @@ export default (app) => {
     const week = 1000 * 60 * 60 * 24 * 7; // ms * s * min * h * days
     var sess = {
         secret: config.get('session-secret'),
-        resave: false,
-        saveUninitialized: false, // save session without saving any data?
+        resave: false, // don't save session if unmodified
+        saveUninitialized: false, // don't create session until something stored
         cookie: { maxAge: week },
         store: new MongoStore({ mongooseConnection: mongoose.connection })
     };

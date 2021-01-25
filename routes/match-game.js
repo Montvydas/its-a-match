@@ -59,11 +59,11 @@ function validateGameStart(data) {
     return schema.validate(data);
 }
 
-function gameInit(memory, username) {
-    memory.username = username;
-    memory.health = config.get('default-health');
-    memory.level = 0;
-    memory.cards = ['wordId0', 'wordId1', 'wordId2', 'wordId3', 'wordId4'];
+function gameInit(player, username) {
+    player.username = username;
+    player.health = config.get('default-health');
+    player.level = 0;
+    player.cards = ['wordId0', 'wordId1', 'wordId2', 'wordId3', 'wordId4'];
 }
 
 router.post('/try-match', (req, res) => {
