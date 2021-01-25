@@ -2,11 +2,11 @@
   "name": "its-a-match-simple",
   "version": "0.0.1",
   "description": "Simple server to query data for the it's a match game.",
-  "main": "index.js",
+  "main": "src/app.js",
   "type": "module",
   "scripts": {
     "test": "jest  --watchAll --verbose",
-    "start": "node index.js",
+    "start": "node src/app.js",
     "start-watch": "nodemon"
   },
   "author": "Montvydas Klumbys",
