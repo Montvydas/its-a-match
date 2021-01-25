@@ -2,7 +2,6 @@ import Word, { validate } from '../models/word.js';
 import { Router } from 'express';
 import handleValidationError from '../tools/helpers.js';
 import _ from 'lodash';
-
 const router = Router();
 
 router.get('/', async (req, res) => {
@@ -12,7 +11,7 @@ router.get('/', async (req, res) => {
 
 router.post('/', async (req, res) => {
     const { error, value } = validate(req.body);
-    if (error) return res.status(400).send(error.details[0].message);
+    if (error) return res.status(400).json({ message: error.details[0].message });
 
     const word = new Word({
         word: {
