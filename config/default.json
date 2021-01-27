@@ -2,5 +2,6 @@
     "name": "It's a Match App",
     "port": "3000",
     "session-secret": "silly secret",
-    "default-health": 3
+    "default-health": 3,
+    "max-highscores": 10
 }

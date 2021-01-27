@@ -1,15 +1,28 @@
-import { readFile, writeFile } from 'fs';
+import db from '../startup/db.js';
+import Card from '../models/card.js';
+import { readFile } from 'fs';
+import util from 'util';
+const readFilePromised = util.promisify(readFile);
 
+db();
 
-export default readFile('../../top_1000_spanish.json', 'utf8', (err, data) => {
-    if (err) throw err;
+const data = await readFilePromised('top_1000_spanish.json', 'utf8');
 
-    let cards = [];
-    JSON.parse(data).levels.forEach((level) => {
-        cards = cards.concat(level.cards);
+JSON.parse(data).levels.forEach((level) => {
+    level.cards.forEach(async (card) => {
+        const mongoCard = new Card({
+            word: {
+                value: card.word
+            },
+            meanings: {
+                value: card.meanings
+            },
+            difficulty: level.difficulty
+        });
+
+        await mongoCard.save();
     });
-
-    // console.log(cards);
-    writeFile('../../top_1000_spanish_simple.json', JSON.stringify(cards), 'utf8', () => console.log('Done writing to file!'));
-    // return cards;
+    console.log(`Wrote difficulty: ${level.difficulty}`);
 });
+
+console.log('Finished!');
