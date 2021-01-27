@@ -37,7 +37,10 @@ function popMatching(wordId, meaningsId, cards) {
 }
 
 function publicData(cards) {
-    return cards.map(card => _.omit(card, '_id'));
+    const words = cards.map(card => _.pick(card, ['word']));
+    const meanings = _.shuffle(cards.map(card => _.pick(card, ['meanings'])));
+
+    return { words, meanings };
 }
 
 export { getNewCards, popMatching, publicData };
