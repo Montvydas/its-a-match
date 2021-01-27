@@ -43,8 +43,6 @@ router.post('/start', (req, res) => {
 
     const forceRestart = value.restart || !isHealthy(req.session.health);
     if (forceRestart) {
-        console.log('You are not healthy or want to restart the game!');
-        // return res.json({ message: 'You are not healthy! Restarting session for ya :)' });
         gameInit(req.session, value.username);
     }
 
@@ -63,7 +61,7 @@ function gameInit(player, username) {
     player.username = username;
     player.health = config.get('default-health');
     player.level = 0;
-    player.cards = ['wordId0', 'wordId1', 'wordId2', 'wordId3', 'wordId4'];
+    player.cards = ['cardId0', 'cardId1', 'cardId2', 'cardId3', 'cardId4'];
 }
 
 router.post('/try-match', (req, res) => {
@@ -118,7 +116,7 @@ function isLevelComplete(cards) {
 }
 
 function getNewCards(level) {
-    return ['newWordId0', 'newWordId1', 'NewWordId2', 'newWordId3', 'newWordId4']
+    return ['newCardId0', 'newCardId1', 'NewCardId2', 'newCardId3', 'newCardId4']
 }
 
 function getLevelByName(name) {
@@ -135,29 +133,5 @@ function getRandomElements(arr, count) {
 function shuffle(arr) {
     arr.sort(() => 0.5 - Math.random());
 }
-
-router.get('/cards', (req, res) => {
-    const schema = Joi.object({
-        level: Joi.number().min(0).max(100).required(),
-        count: Joi.number().min(1).max(10).required()
-    });
-
-    const { error, value } = schema.validate(req.query);
-
-    if (error) return res.status(404).json(error.details[0].message);
-
-    const level = getLevelByName(value.level);
-    const separated = { words: [], meanings: [] };
-    let randomPairs = getRandomElements(level.words, value.count);
-
-    randomPairs.forEach((pair, id) => {
-        separated.words.push({ word: pair.word, id: id });
-        separated.meanings.push({ meaning: pair.meaning, id: id });
-    });
-
-    shuffle(separated.meanings);
-
-    return res.send(JSON.stringify(separated));
-});
 
 export default router;
