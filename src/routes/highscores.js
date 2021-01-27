@@ -2,6 +2,7 @@ import Highscore, { validate } from '../models/highscore.js';
 import { Router } from 'express';
 import _ from 'lodash';
 import Joi from 'joi';
+import config from 'config';
 
 const router = Router();
 
@@ -19,6 +20,7 @@ router.get('/:count', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
+    const maxHighscores = config.get('max-highscores');
     // TODO: Add logic to maintain defined count of highscores rather than storing everything, maybe use aggregate with min property
     // TODO: Find out should we update existing entry into db through ref _id or should we just add new entry
     const { error, value } = validate(req.body);

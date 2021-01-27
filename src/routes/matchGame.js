@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import _ from 'lodash';
-import { validateGameStart, validateCardMatch } from '../models/match-game.js';
+import { validateGameStart, validateCardMatch } from '../models/matchGame.js';
 import { getNewCards, popMatching, publicData } from '../control/cards.js';
 import { gameInit, getGameStatus, isLevelComplete, getPlayerStatus } from '../control/gameplay.js';
 const router = Router();

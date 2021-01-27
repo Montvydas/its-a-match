@@ -2,7 +2,7 @@
 import cards from '../routes/cards.js';
 import highscores from '../routes/highscores.js';
 import error from '../middleware/error.js';
-import matchGame from '../routes/match-game.js';
+import matchGame from '../routes/matchGame.js';
 
 export default (app) => {
     app.use('/api/cards', cards);

@@ -2,7 +2,7 @@ import express from 'express';
 import config from 'config';
 import winston from 'winston';
 
-import configExpress from './startup/config-express.js';
+import configExpress from './startup/configExpress.js';
 import logging from './startup/logging.js';
 import db from './startup/db.js';
 import session from './startup/session.js';
