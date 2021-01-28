@@ -3,6 +3,13 @@ import mongoose from 'mongoose';
 const { model, Schema } = mongoose;
 
 const highscoreSchema = new Schema({
+    gameName: {
+        type: String,
+        required: true,
+        minLength: 1,
+        maxLength: 20,
+        trim: true
+    },
     username: {
         type: String,
         required: true,
@@ -33,6 +40,7 @@ const Highscore = model('Highscore', highscoreSchema);
 
 function validateHighscore(data) {
     const schema = Joi.object({
+        gameName: Joi.string().min(1).max(20).required(),
         username: Joi.string().min(1).max(20).required(),
         killerWord: Joi.string().min(1).max(255).required(),
         reachedLevel: Joi.number().min(0).required()
