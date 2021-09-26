@@ -1,0 +1,4101 @@
+{
+  "course": "1000 Most Common Spanish Words",
+  "levels": [
+    {
+      "name": "1 - 50",
+      "words": [
+        {
+          "word": "de",
+          "meaning": "of, from"
+        },
+        {
+          "word": "el",
+          "meaning": "the"
+        },
+        {
+          "word": "lo",
+          "meaning": "the, for, it"
+        },
+        {
+          "word": "que",
+          "meaning": "that"
+        },
+        {
+          "word": "y",
+          "meaning": "and"
+        },
+        {
+          "word": "él",
+          "meaning": "he, him"
+        },
+        {
+          "word": "en",
+          "meaning": "in, into, inside, on"
+        },
+        {
+          "word": "el",
+          "meaning": "the"
+        },
+        {
+          "word": "a",
+          "meaning": "a, to"
+        },
+        {
+          "word": "un",
+          "meaning": "a, an"
+        },
+        {
+          "word": "ser",
+          "meaning": "to be"
+        },
+        {
+          "word": "no",
+          "meaning": "no"
+        },
+        {
+          "word": "su",
+          "meaning": "his"
+        },
+        {
+          "word": "haber",
+          "meaning": "to have, has"
+        },
+        {
+          "word": "del",
+          "meaning": "of, from"
+        },
+        {
+          "word": "con",
+          "meaning": "with"
+        },
+        {
+          "word": "por",
+          "meaning": "by, for, per"
+        },
+        {
+          "word": "yo",
+          "meaning": "I"
+        },
+        {
+          "word": "uno",
+          "meaning": "one"
+        },
+        {
+          "word": "al",
+          "meaning": "to, to the"
+        },
+        {
+          "word": "para",
+          "meaning": "for, towards, stop"
+        },
+        {
+          "word": "como",
+          "meaning": "as, since, like"
+        },
+        {
+          "word": "más",
+          "meaning": "more"
+        },
+        {
+          "word": "estar",
+          "meaning": "to be, stay"
+        },
+        {
+          "word": "todo",
+          "meaning": "everything"
+        },
+        {
+          "word": "tener",
+          "meaning": "to have"
+        },
+        {
+          "word": "poder",
+          "meaning": "to be able to, can, might, may"
+        },
+        {
+          "word": "pero",
+          "meaning": "but"
+        },
+        {
+          "word": "este",
+          "meaning": "this"
+        },
+        {
+          "word": "o",
+          "meaning": "or"
+        },
+        {
+          "word": "hacer",
+          "meaning": "to do, make"
+        },
+        {
+          "word": "decir",
+          "meaning": "to say, tell"
+        },
+        {
+          "word": "otro",
+          "meaning": "another, other"
+        },
+        {
+          "word": "si",
+          "meaning": "if, yes"
+        },
+        {
+          "word": "sin",
+          "meaning": "without"
+        },
+        {
+          "word": "mi",
+          "meaning": "my, not me"
+        },
+        {
+          "word": "ese",
+          "meaning": "that"
+        },
+        {
+          "word": "ir",
+          "meaning": "to go"
+        },
+        {
+          "word": "dar",
+          "meaning": "to give"
+        },
+        {
+          "word": "cuando",
+          "meaning": "when"
+        },
+        {
+          "word": "ya",
+          "meaning": "already"
+        },
+        {
+          "word": "ver",
+          "meaning": "to see"
+        },
+        {
+          "word": "sobre",
+          "meaning": "envelope, on"
+        },
+        {
+          "word": "saber",
+          "meaning": "to know"
+        },
+        {
+          "word": "año",
+          "meaning": "year"
+        },
+        {
+          "word": "entre",
+          "meaning": "between, among"
+        },
+        {
+          "word": "muy",
+          "meaning": "very, highly"
+        },
+        {
+          "word": "mismo",
+          "meaning": "same"
+        },
+        {
+          "word": "qué",
+          "meaning": "what"
+        }
+      ]
+    },
+    {
+      "name": "51 - 100",
+      "words": [
+        {
+          "word": "mucho",
+          "meaning": "much"
+        },
+        {
+          "word": "dos",
+          "meaning": "two"
+        },
+        {
+          "word": "porque",
+          "meaning": "because, why"
+        },
+        {
+          "word": "sólo",
+          "meaning": "only"
+        },
+        {
+          "word": "también",
+          "meaning": "also, too"
+        },
+        {
+          "word": "vez",
+          "meaning": "time"
+        },
+        {
+          "word": "día",
+          "meaning": "day"
+        },
+        {
+          "word": "aquel",
+          "meaning": "that"
+        },
+        {
+          "word": "parecer",
+          "meaning": "to seem"
+        },
+        {
+          "word": "querer",
+          "meaning": "to want"
+        },
+        {
+          "word": "ni",
+          "meaning": "nor, neither"
+        },
+        {
+          "word": "pasar",
+          "meaning": "to happen, pass"
+        },
+        {
+          "word": "hasta",
+          "meaning": "until, even"
+        },
+        {
+          "word": "llegar",
+          "meaning": "to arrive, come"
+        },
+        {
+          "word": "tan",
+          "meaning": "so"
+        },
+        {
+          "word": "deber",
+          "meaning": "to owe"
+        },
+        {
+          "word": "hombre",
+          "meaning": "man"
+        },
+        {
+          "word": "tiempo",
+          "meaning": "time"
+        },
+        {
+          "word": "desde",
+          "meaning": "from, since"
+        },
+        {
+          "word": "nuestro",
+          "meaning": "ours"
+        },
+        {
+          "word": "poner",
+          "meaning": "to put"
+        },
+        {
+          "word": "primero",
+          "meaning": "first"
+        },
+        {
+          "word": "dejar",
+          "meaning": "to leave, to leave behind"
+        },
+        {
+          "word": "vida",
+          "meaning": "life"
+        },
+        {
+          "word": "ahora",
+          "meaning": "now"
+        },
+        {
+          "word": "tanto",
+          "meaning": "so much"
+        },
+        {
+          "word": "poco",
+          "meaning": "little, few"
+        },
+        {
+          "word": "siempre",
+          "meaning": "always"
+        },
+        {
+          "word": "eso",
+          "meaning": "that"
+        },
+        {
+          "word": "llevar",
+          "meaning": "to take, carry"
+        },
+        {
+          "word": "nuevo",
+          "meaning": "new"
+        },
+        {
+          "word": "quedar",
+          "meaning": "to stay"
+        },
+        {
+          "word": "cosa",
+          "meaning": "thing"
+        },
+        {
+          "word": "nada",
+          "meaning": "nothing"
+        },
+        {
+          "word": "parte",
+          "meaning": "part"
+        },
+        {
+          "word": "mujer",
+          "meaning": "woman, women"
+        },
+        {
+          "word": "aunque",
+          "meaning": "though, although"
+        },
+        {
+          "word": "cada",
+          "meaning": "each"
+        },
+        {
+          "word": "bien",
+          "meaning": "well, good"
+        },
+        {
+          "word": "seguir",
+          "meaning": "to follow"
+        },
+        {
+          "word": "así",
+          "meaning": "like this"
+        },
+        {
+          "word": "buen",
+          "meaning": "good, well"
+        },
+        {
+          "word": "algo",
+          "meaning": "something"
+        },
+        {
+          "word": "hablar",
+          "meaning": "to speak, talk"
+        },
+        {
+          "word": "donde",
+          "meaning": "where"
+        },
+        {
+          "word": "volver",
+          "meaning": "to return"
+        },
+        {
+          "word": "encontrar",
+          "meaning": "to find"
+        },
+        {
+          "word": "pensar",
+          "meaning": "to think"
+        },
+        {
+          "word": "casa",
+          "meaning": "house"
+        },
+        {
+          "word": "mundo",
+          "meaning": "world"
+        }
+      ]
+    },
+    {
+      "name": "101 - 150",
+      "words": [
+        {
+          "word": "último",
+          "meaning": "last"
+        },
+        {
+          "word": "mano",
+          "meaning": "hand"
+        },
+        {
+          "word": "sido",
+          "meaning": "been"
+        },
+        {
+          "word": "algún",
+          "meaning": "some, any"
+        },
+        {
+          "word": "propio",
+          "meaning": "own"
+        },
+        {
+          "word": "conocer",
+          "meaning": "to know, meet"
+        },
+        {
+          "word": "momento",
+          "meaning": "moment"
+        },
+        {
+          "word": "llamar",
+          "meaning": "to call, phone"
+        },
+        {
+          "word": "sí",
+          "meaning": "yes"
+        },
+        {
+          "word": "quien",
+          "meaning": "who"
+        },
+        {
+          "word": "menos",
+          "meaning": "less"
+        },
+        {
+          "word": "salir",
+          "meaning": "to leave, go out"
+        },
+        {
+          "word": "alguno",
+          "meaning": "some, any"
+        },
+        {
+          "word": "mirar",
+          "meaning": "to watch"
+        },
+        {
+          "word": "casi",
+          "meaning": "almost"
+        },
+        {
+          "word": "medio",
+          "meaning": "means"
+        },
+        {
+          "word": "e",
+          "meaning": "and"
+        },
+        {
+          "word": "caso",
+          "meaning": "case"
+        },
+        {
+          "word": "hacia",
+          "meaning": "towards"
+        },
+        {
+          "word": "mejor",
+          "meaning": "better"
+        },
+        {
+          "word": "tres",
+          "meaning": "three"
+        },
+        {
+          "word": "nunca",
+          "meaning": "never"
+        },
+        {
+          "word": "hora",
+          "meaning": "hour"
+        },
+        {
+          "word": "venir",
+          "meaning": "to come"
+        },
+        {
+          "word": "forma",
+          "meaning": "shape"
+        },
+        {
+          "word": "contra",
+          "meaning": "against"
+        },
+        {
+          "word": "sino",
+          "meaning": "but, rather"
+        },
+        {
+          "word": "ante",
+          "meaning": "before"
+        },
+        {
+          "word": "ante",
+          "meaning": "before, in front of"
+        },
+        {
+          "word": "ojo",
+          "meaning": "eye"
+        },
+        {
+          "word": "tratar",
+          "meaning": "to try (to do something), to behave towards"
+        },
+        {
+          "word": "creer",
+          "meaning": "to believe"
+        },
+        {
+          "word": "cierto",
+          "meaning": "true"
+        },
+        {
+          "word": "pues",
+          "meaning": "then, since, because"
+        },
+        {
+          "word": "tu",
+          "meaning": "your, you"
+        },
+        {
+          "word": "vivir",
+          "meaning": "to live"
+        },
+        {
+          "word": "durante",
+          "meaning": "during"
+        },
+        {
+          "word": "gran",
+          "meaning": "big"
+        },
+        {
+          "word": "cómo",
+          "meaning": "how"
+        },
+        {
+          "word": "señor",
+          "meaning": "sir"
+        },
+        {
+          "word": "entonces",
+          "meaning": "then"
+        },
+        {
+          "word": "padre",
+          "meaning": "father"
+        },
+        {
+          "word": "sentir",
+          "meaning": "to feel"
+        },
+        {
+          "word": "mientras",
+          "meaning": "while"
+        },
+        {
+          "word": "según",
+          "meaning": "according to"
+        },
+        {
+          "word": "noche",
+          "meaning": "night"
+        },
+        {
+          "word": "perder",
+          "meaning": "to lose, miss"
+        },
+        {
+          "word": "esto",
+          "meaning": "this"
+        },
+        {
+          "word": "tomar",
+          "meaning": "to take, to drink"
+        },
+        {
+          "word": "mayor",
+          "meaning": "greater"
+        }
+      ]
+    },
+    {
+      "name": "151 - 200",
+      "words": [
+        {
+          "word": "usted",
+          "meaning": "you"
+        },
+        {
+          "word": "persona",
+          "meaning": "person"
+        },
+        {
+          "word": "único",
+          "meaning": "only"
+        },
+        {
+          "word": "único",
+          "meaning": "only, unique"
+        },
+        {
+          "word": "aquí",
+          "meaning": "here"
+        },
+        {
+          "word": "bajo",
+          "meaning": "low, short, faint"
+        },
+        {
+          "word": "abrir",
+          "meaning": "to open, unlock"
+        },
+        {
+          "word": "solo",
+          "meaning": "alone"
+        },
+        {
+          "word": "político",
+          "meaning": "political"
+        },
+        {
+          "word": "españa",
+          "meaning": "spain"
+        },
+        {
+          "word": "para que",
+          "meaning": "so that"
+        },
+        {
+          "word": "nadie",
+          "meaning": "nobody, no-one"
+        },
+        {
+          "word": "esperar",
+          "meaning": "to hope, wait"
+        },
+        {
+          "word": "palabra",
+          "meaning": "word"
+        },
+        {
+          "word": "lugar",
+          "meaning": "place"
+        },
+        {
+          "word": "acabar",
+          "meaning": "to finish"
+        },
+        {
+          "word": "producir",
+          "meaning": "to produce"
+        },
+        {
+          "word": "empezar",
+          "meaning": "to begin, start"
+        },
+        {
+          "word": "hoy",
+          "meaning": "today"
+        },
+        {
+          "word": "contar",
+          "meaning": "to count"
+        },
+        {
+          "word": "problema",
+          "meaning": "problem"
+        },
+        {
+          "word": "preguntar",
+          "meaning": "to ask"
+        },
+        {
+          "word": "morir",
+          "meaning": "to die"
+        },
+        {
+          "word": "don",
+          "meaning": "gift, talent"
+        },
+        {
+          "word": "aún",
+          "meaning": "still"
+        },
+        {
+          "word": "cualquier",
+          "meaning": "any"
+        },
+        {
+          "word": "grande",
+          "meaning": "big, great"
+        },
+        {
+          "word": "madre",
+          "meaning": "mother"
+        },
+        {
+          "word": "claro",
+          "meaning": "clearly, clear"
+        },
+        {
+          "word": "tarde",
+          "meaning": "late"
+        },
+        {
+          "word": "allí",
+          "meaning": "there"
+        },
+        {
+          "word": "segundo",
+          "meaning": "second"
+        },
+        {
+          "word": "cuerpo",
+          "meaning": "body"
+        },
+        {
+          "word": "trabajo",
+          "meaning": "job"
+        },
+        {
+          "word": "general",
+          "meaning": "general"
+        },
+        {
+          "word": "niño",
+          "meaning": "boy, girl"
+        },
+        {
+          "word": "tras",
+          "meaning": "after"
+        },
+        {
+          "word": "hijo",
+          "meaning": "son, daughter"
+        },
+        {
+          "word": "convertir",
+          "meaning": "to turn into, convert"
+        },
+        {
+          "word": "cuyo",
+          "meaning": "whose, of whom"
+        },
+        {
+          "word": "español",
+          "meaning": "spanish"
+        },
+        {
+          "word": "posible",
+          "meaning": "possible"
+        },
+        {
+          "word": "cabeza",
+          "meaning": "head"
+        },
+        {
+          "word": "historia",
+          "meaning": "history"
+        },
+        {
+          "word": "alto",
+          "meaning": "tall, high, stop"
+        },
+        {
+          "word": "incluso",
+          "meaning": "even, in fact"
+        },
+        {
+          "word": "resultar",
+          "meaning": "to turn out, work out, succeed"
+        },
+        {
+          "word": "luego",
+          "meaning": "then, later"
+        },
+        {
+          "word": "existir",
+          "meaning": "to exist"
+        },
+        {
+          "word": "recordar",
+          "meaning": "to remember, remind"
+        }
+      ]
+    },
+    {
+      "name": "201 - 250",
+      "words": [
+        {
+          "word": "mí",
+          "meaning": "me, not my"
+        },
+        {
+          "word": "cual",
+          "meaning": "as, like"
+        },
+        {
+          "word": "después",
+          "meaning": "afterwards, then"
+        },
+        {
+          "word": "después de",
+          "meaning": "after"
+        },
+        {
+          "word": "pequeño",
+          "meaning": "small"
+        },
+        {
+          "word": "tipo",
+          "meaning": "guy"
+        },
+        {
+          "word": "joven",
+          "meaning": "young person"
+        },
+        {
+          "word": "entrar",
+          "meaning": "to enter"
+        },
+        {
+          "word": "tal",
+          "meaning": "so"
+        },
+        {
+          "word": "escribir",
+          "meaning": "to write"
+        },
+        {
+          "word": "agua",
+          "meaning": "water"
+        },
+        {
+          "word": "gobierno",
+          "meaning": "government"
+        },
+        {
+          "word": "humano",
+          "meaning": "human"
+        },
+        {
+          "word": "millón",
+          "meaning": "million"
+        },
+        {
+          "word": "final",
+          "meaning": "end, final"
+        },
+        {
+          "word": "todavía",
+          "meaning": "still"
+        },
+        {
+          "word": "primer",
+          "meaning": "first"
+        },
+        {
+          "word": "verdad",
+          "meaning": "truth"
+        },
+        {
+          "word": "público",
+          "meaning": "public"
+        },
+        {
+          "word": "fin",
+          "meaning": "end"
+        },
+        {
+          "word": "puerta",
+          "meaning": "door"
+        },
+        {
+          "word": "realidad",
+          "meaning": "reality"
+        },
+        {
+          "word": "viejo",
+          "meaning": "old"
+        },
+        {
+          "word": "frente",
+          "meaning": "in front"
+        },
+        {
+          "word": "partido",
+          "meaning": "party, game"
+        },
+        {
+          "word": "nombre",
+          "meaning": "name"
+        },
+        {
+          "word": "oír",
+          "meaning": "to hear"
+        },
+        {
+          "word": "caer",
+          "meaning": "to fall"
+        },
+        {
+          "word": "conseguir",
+          "meaning": "to obtain"
+        },
+        {
+          "word": "permitir",
+          "meaning": "to allow"
+        },
+        {
+          "word": "gente",
+          "meaning": "people"
+        },
+        {
+          "word": "ciudad",
+          "meaning": "city"
+        },
+        {
+          "word": "estado",
+          "meaning": "state"
+        },
+        {
+          "word": "ocurrir",
+          "meaning": "to happen"
+        },
+        {
+          "word": "mes",
+          "meaning": "month"
+        },
+        {
+          "word": "luz",
+          "meaning": "light, lighting"
+        },
+        {
+          "word": "mantener",
+          "meaning": "to maintain"
+        },
+        {
+          "word": "cuenta",
+          "meaning": "count"
+        },
+        {
+          "word": "largo",
+          "meaning": "long"
+        },
+        {
+          "word": "voz",
+          "meaning": "voice"
+        },
+        {
+          "word": "grupo",
+          "meaning": "group"
+        },
+        {
+          "word": "considerar",
+          "meaning": "to consider"
+        },
+        {
+          "word": "razón",
+          "meaning": "reason"
+        },
+        {
+          "word": "calle",
+          "meaning": "street"
+        },
+        {
+          "word": "paso",
+          "meaning": "step"
+        },
+        {
+          "word": "paso",
+          "meaning": "step"
+        },
+        {
+          "word": "aparecer",
+          "meaning": "to appear"
+        },
+        {
+          "word": "entender",
+          "meaning": "to understand"
+        },
+        {
+          "word": "sistema",
+          "meaning": "system"
+        },
+        {
+          "word": "libro",
+          "meaning": "book"
+        }
+      ]
+    },
+    {
+      "name": "251 - 300",
+      "words": [
+        {
+          "word": "país",
+          "meaning": "country, nation"
+        },
+        {
+          "word": "además",
+          "meaning": "in addition, besides, furthermore"
+        },
+        {
+          "word": "buscar",
+          "meaning": "to look for, to seek"
+        },
+        {
+          "word": "punto",
+          "meaning": "point"
+        },
+        {
+          "word": "amigo",
+          "meaning": "friend"
+        },
+        {
+          "word": "cuatro",
+          "meaning": "four"
+        },
+        {
+          "word": "pedir",
+          "meaning": "to request, ask for"
+        },
+        {
+          "word": "muerte",
+          "meaning": "death"
+        },
+        {
+          "word": "realizar",
+          "meaning": "to make, realize"
+        },
+        {
+          "word": "relación",
+          "meaning": "relation"
+        },
+        {
+          "word": "comenzar",
+          "meaning": "to begin, start"
+        },
+        {
+          "word": "importante",
+          "meaning": "important"
+        },
+        {
+          "word": "social",
+          "meaning": "social"
+        },
+        {
+          "word": "cambio",
+          "meaning": "change"
+        },
+        {
+          "word": "hecho",
+          "meaning": "fact"
+        },
+        {
+          "word": "mal",
+          "meaning": "badly, poorly, incorrectly"
+        },
+        {
+          "word": "gustar",
+          "meaning": "to taste, like"
+        },
+        {
+          "word": "idea",
+          "meaning": "idea"
+        },
+        {
+          "word": "suponer",
+          "meaning": "to suppose"
+        },
+        {
+          "word": "sentar",
+          "meaning": "to seat, sit"
+        },
+        {
+          "word": "pueblo",
+          "meaning": "town"
+        },
+        {
+          "word": "pueblo",
+          "meaning": "town"
+        },
+        {
+          "word": "antes de",
+          "meaning": "before"
+        },
+        {
+          "word": "mañana",
+          "meaning": "tomorrow"
+        },
+        {
+          "word": "sentido",
+          "meaning": "heartfelt,sense"
+        },
+        {
+          "word": "presentar",
+          "meaning": "to present"
+        },
+        {
+          "word": "situación",
+          "meaning": "situation"
+        },
+        {
+          "word": "amor",
+          "meaning": "love"
+        },
+        {
+          "word": "decidir",
+          "meaning": "to decide"
+        },
+        {
+          "word": "demasiado",
+          "meaning": "too much"
+        },
+        {
+          "word": "negro",
+          "meaning": "black"
+        },
+        {
+          "word": "recibir",
+          "meaning": "to receive"
+        },
+        {
+          "word": "manera",
+          "meaning": "way, manner"
+        },
+        {
+          "word": "explicar",
+          "meaning": "to explain"
+        },
+        {
+          "word": "guerra",
+          "meaning": "war"
+        },
+        {
+          "word": "fuerza",
+          "meaning": "force, strength"
+        },
+        {
+          "word": "servir",
+          "meaning": "to serve"
+        },
+        {
+          "word": "real",
+          "meaning": "royal, real"
+        },
+        {
+          "word": "intentar",
+          "meaning": "to try, attempt, intend"
+        },
+        {
+          "word": "tierra",
+          "meaning": "earth"
+        },
+        {
+          "word": "levantar",
+          "meaning": "to lift, raise"
+        },
+        {
+          "word": "leer",
+          "meaning": "to read"
+        },
+        {
+          "word": "éste",
+          "meaning": "this one"
+        },
+        {
+          "word": "equipo",
+          "meaning": "equipment, team"
+        },
+        {
+          "word": "presidente",
+          "meaning": "president"
+        },
+        {
+          "word": "número",
+          "meaning": "number"
+        },
+        {
+          "word": "lado",
+          "meaning": "side"
+        },
+        {
+          "word": "siglo",
+          "meaning": "century"
+        },
+        {
+          "word": "crear",
+          "meaning": "to create"
+        },
+        {
+          "word": "sociedad",
+          "meaning": "society"
+        }
+      ]
+    },
+    {
+      "name": "301 - 350",
+      "words": [
+        {
+          "word": "efecto",
+          "meaning": "effect"
+        },
+        {
+          "word": "cuanto",
+          "meaning": "how much, as"
+        },
+        {
+          "word": "blanco",
+          "meaning": "white"
+        },
+        {
+          "word": "familia",
+          "meaning": "family"
+        },
+        {
+          "word": "ganar",
+          "meaning": "to win"
+        },
+        {
+          "word": "distinto",
+          "meaning": "different"
+        },
+        {
+          "word": "modo",
+          "meaning": "way, manner, mode"
+        },
+        {
+          "word": "principio",
+          "meaning": "beginning, principle"
+        },
+        {
+          "word": "camino",
+          "meaning": "road"
+        },
+        {
+          "word": "necesario",
+          "meaning": "necessary"
+        },
+        {
+          "word": "mostrar",
+          "meaning": "to show"
+        },
+        {
+          "word": "seguro",
+          "meaning": "safe"
+        },
+        {
+          "word": "utilizar",
+          "meaning": "to use"
+        },
+        {
+          "word": "ofrecer",
+          "meaning": "to offer"
+        },
+        {
+          "word": "cara",
+          "meaning": "face"
+        },
+        {
+          "word": "terminar",
+          "meaning": "to finish"
+        },
+        {
+          "word": "tampoco",
+          "meaning": "neither"
+        },
+        {
+          "word": "olvidar",
+          "meaning": "to forget"
+        },
+        {
+          "word": "pie",
+          "meaning": "foot"
+        },
+        {
+          "word": "sacar",
+          "meaning": "to remove, take out"
+        },
+        {
+          "word": "echar",
+          "meaning": "to throw, cast"
+        },
+        {
+          "word": "ninguno",
+          "meaning": "no, none, nobody, no one"
+        },
+        {
+          "word": "ayer",
+          "meaning": "yesterday"
+        },
+        {
+          "word": "disponer",
+          "meaning": "to arrange"
+        },
+        {
+          "word": "quizá",
+          "meaning": "perhaps, maybe"
+        },
+        {
+          "word": "preciso",
+          "meaning": "precise"
+        },
+        {
+          "word": "quién",
+          "meaning": "who"
+        },
+        {
+          "word": "descubrir",
+          "meaning": "to discover"
+        },
+        {
+          "word": "lograr",
+          "meaning": "to obtain, achieve, get"
+        },
+        {
+          "word": "necesitar",
+          "meaning": "to need"
+        },
+        {
+          "word": "cambiar",
+          "meaning": "to change"
+        },
+        {
+          "word": "por ejemplo",
+          "meaning": "for example"
+        },
+        {
+          "word": "cinco",
+          "meaning": "five"
+        },
+        {
+          "word": "duda",
+          "meaning": "doubt"
+        },
+        {
+          "word": "cerrar",
+          "meaning": "to close"
+        },
+        {
+          "word": "especial",
+          "meaning": "special"
+        },
+        {
+          "word": "trabajar",
+          "meaning": "to work"
+        },
+        {
+          "word": "campo",
+          "meaning": "field"
+        },
+        {
+          "word": "reconocer",
+          "meaning": "to recognize"
+        },
+        {
+          "word": "ahí",
+          "meaning": "there"
+        },
+        {
+          "word": "ahí",
+          "meaning": "there"
+        },
+        {
+          "word": "imagen",
+          "meaning": "image"
+        },
+        {
+          "word": "estudio",
+          "meaning": "study, studio"
+        },
+        {
+          "word": "jugar",
+          "meaning": "to play, gambler"
+        },
+        {
+          "word": "capaz",
+          "meaning": "able"
+        },
+        {
+          "word": "formar",
+          "meaning": "to form"
+        },
+        {
+          "word": "papel",
+          "meaning": "paper"
+        },
+        {
+          "word": "igual",
+          "meaning": "equal"
+        },
+        {
+          "word": "fondo",
+          "meaning": "bottom, rear"
+        },
+        {
+          "word": "derecho",
+          "meaning": "straight, right"
+        }
+      ]
+    },
+    {
+      "name": "351 - 400",
+      "words": [
+        {
+          "word": "alcanzar",
+          "meaning": "to reach"
+        },
+        {
+          "word": "resultado",
+          "meaning": "result, outcome"
+        },
+        {
+          "word": "alguien",
+          "meaning": "somebody"
+        },
+        {
+          "word": "alguien",
+          "meaning": "somebody, someone"
+        },
+        {
+          "word": "aire",
+          "meaning": "air"
+        },
+        {
+          "word": "difícil",
+          "meaning": "difficult"
+        },
+        {
+          "word": "correr",
+          "meaning": "to run, race"
+        },
+        {
+          "word": "obra",
+          "meaning": "work"
+        },
+        {
+          "word": "científico",
+          "meaning": "scientific"
+        },
+        {
+          "word": "posibilidad",
+          "meaning": "possibility"
+        },
+        {
+          "word": "comprender",
+          "meaning": "to comprehend, to understand"
+        },
+        {
+          "word": "mil",
+          "meaning": "thousand"
+        },
+        {
+          "word": "mas",
+          "meaning": "but"
+        },
+        {
+          "word": "proceso",
+          "meaning": "process"
+        },
+        {
+          "word": "dinero",
+          "meaning": "money"
+        },
+        {
+          "word": "actual",
+          "meaning": "present"
+        },
+        {
+          "word": "semana",
+          "meaning": "week"
+        },
+        {
+          "word": "clase",
+          "meaning": "class"
+        },
+        {
+          "word": "económico",
+          "meaning": "economic, economical"
+        },
+        {
+          "word": "andar",
+          "meaning": "to walk"
+        },
+        {
+          "word": "malo",
+          "meaning": "bad"
+        },
+        {
+          "word": "total",
+          "meaning": "total"
+        },
+        {
+          "word": "ocasión",
+          "meaning": "occasion"
+        },
+        {
+          "word": "suyo",
+          "meaning": "his/her/its"
+        },
+        {
+          "word": "demás",
+          "meaning": "rest of the"
+        },
+        {
+          "word": "apenas",
+          "meaning": "hardly,scarcely"
+        },
+        {
+          "word": "dirigir",
+          "meaning": "to direct"
+        },
+        {
+          "word": "demostrar",
+          "meaning": "to demonstrate"
+        },
+        {
+          "word": "mirada",
+          "meaning": "watched"
+        },
+        {
+          "word": "meter",
+          "meaning": "to put"
+        },
+        {
+          "word": "asegurar",
+          "meaning": "to assure"
+        },
+        {
+          "word": "simple",
+          "meaning": "simple"
+        },
+        {
+          "word": "aceptar",
+          "meaning": "to accept"
+        },
+        {
+          "word": "ya que",
+          "meaning": "since"
+        },
+        {
+          "word": "condición",
+          "meaning": "condition"
+        },
+        {
+          "word": "dormir",
+          "meaning": "to sleep"
+        },
+        {
+          "word": "comer",
+          "meaning": "to eat"
+        },
+        {
+          "word": "ley",
+          "meaning": "law"
+        },
+        {
+          "word": "abandonar",
+          "meaning": "to abandon"
+        },
+        {
+          "word": "ningún",
+          "meaning": "none"
+        },
+        {
+          "word": "ésta",
+          "meaning": "is"
+        },
+        {
+          "word": "escuchar",
+          "meaning": "to listen, heard"
+        },
+        {
+          "word": "mesa",
+          "meaning": "it pulls"
+        },
+        {
+          "word": "natural",
+          "meaning": "natural"
+        },
+        {
+          "word": "color",
+          "meaning": "color"
+        },
+        {
+          "word": "militar",
+          "meaning": "military man"
+        },
+        {
+          "word": "verdadero",
+          "meaning": "true"
+        },
+        {
+          "word": "acuerdo",
+          "meaning": "agreement"
+        },
+        {
+          "word": "ciencia",
+          "meaning": "science"
+        },
+        {
+          "word": "mover",
+          "meaning": "to move, stir"
+        }
+      ]
+    },
+    {
+      "name": "401 - 450",
+      "words": [
+        {
+          "word": "mayoría",
+          "meaning": "majority"
+        },
+        {
+          "word": "responder",
+          "meaning": "to answer"
+        },
+        {
+          "word": "detener",
+          "meaning": "to stop"
+        },
+        {
+          "word": "afirmar",
+          "meaning": "to affirm"
+        },
+        {
+          "word": "empresa",
+          "meaning": "company"
+        },
+        {
+          "word": "interior",
+          "meaning": "interior, inner"
+        },
+        {
+          "word": "ocupar",
+          "meaning": "to occupy"
+        },
+        {
+          "word": "señalar",
+          "meaning": "to indicate, point out"
+        },
+        {
+          "word": "centro",
+          "meaning": "center, downtown"
+        },
+        {
+          "word": "sol",
+          "meaning": "sun"
+        },
+        {
+          "word": "especie",
+          "meaning": "species"
+        },
+        {
+          "word": "sufrir",
+          "meaning": "to suffer"
+        },
+        {
+          "word": "cumplir",
+          "meaning": "to accomplish, carry out"
+        },
+        {
+          "word": "interés",
+          "meaning": "interest"
+        },
+        {
+          "word": "próximo",
+          "meaning": "next"
+        },
+        {
+          "word": "tema",
+          "meaning": "theme"
+        },
+        {
+          "word": "anterior",
+          "meaning": "previous"
+        },
+        {
+          "word": "futuro",
+          "meaning": "future"
+        },
+        {
+          "word": "observar",
+          "meaning": "to observe"
+        },
+        {
+          "word": "francés",
+          "meaning": "french"
+        },
+        {
+          "word": "francés",
+          "meaning": "french"
+        },
+        {
+          "word": "juego",
+          "meaning": "game, playing"
+        },
+        {
+          "word": "libertad",
+          "meaning": "freedom"
+        },
+        {
+          "word": "antiguo",
+          "meaning": "ancient, old"
+        },
+        {
+          "word": "determinar",
+          "meaning": "to determine"
+        },
+        {
+          "word": "suceder",
+          "meaning": "to happen/ occur"
+        },
+        {
+          "word": "médico",
+          "meaning": "doctor"
+        },
+        {
+          "word": "personal",
+          "meaning": "personal"
+        },
+        {
+          "word": "bastante",
+          "meaning": "fairly, rather"
+        },
+        {
+          "word": "movimiento",
+          "meaning": "movement, motion"
+        },
+        {
+          "word": "sueño",
+          "meaning": "dream"
+        },
+        {
+          "word": "obligar",
+          "meaning": "to force, oblige"
+        },
+        {
+          "word": "animal",
+          "meaning": "animal"
+        },
+        {
+          "word": "pagar",
+          "meaning": "to pay"
+        },
+        {
+          "word": "política",
+          "meaning": "politics"
+        },
+        {
+          "word": "sangre",
+          "meaning": "blood"
+        },
+        {
+          "word": "tocar",
+          "meaning": "to touch"
+        },
+        {
+          "word": "hasta que",
+          "meaning": "until, even"
+        },
+        {
+          "word": "valor",
+          "meaning": "value"
+        },
+        {
+          "word": "nacer",
+          "meaning": "to be born"
+        },
+        {
+          "word": "libre",
+          "meaning": "free"
+        },
+        {
+          "word": "silencio",
+          "meaning": "silence"
+        },
+        {
+          "word": "acercar",
+          "meaning": "to approach"
+        },
+        {
+          "word": "zona",
+          "meaning": "zone"
+        },
+        {
+          "word": "acción",
+          "meaning": "action"
+        },
+        {
+          "word": "constituir",
+          "meaning": "to constitute"
+        },
+        {
+          "word": "diferente",
+          "meaning": "different"
+        },
+        {
+          "word": "dedicar",
+          "meaning": "to dedicate"
+        },
+        {
+          "word": "pronto",
+          "meaning": "soon, quick, prompt"
+        },
+        {
+          "word": "absoluto",
+          "meaning": "absolute"
+        }
+      ]
+    },
+    {
+      "name": "451 - 500",
+      "words": [
+        {
+          "word": "obtener",
+          "meaning": "to obtain, get"
+        },
+        {
+          "word": "subir",
+          "meaning": "to raise"
+        },
+        {
+          "word": "traer",
+          "meaning": "to bring"
+        },
+        {
+          "word": "memoria",
+          "meaning": "memory"
+        },
+        {
+          "word": "brazo",
+          "meaning": "arm"
+        },
+        {
+          "word": "periódico",
+          "meaning": "newspaper"
+        },
+        {
+          "word": "película",
+          "meaning": "film, movie"
+        },
+        {
+          "word": "fuerte",
+          "meaning": "hard, strong"
+        },
+        {
+          "word": "prueba",
+          "meaning": "test, proof, evidence"
+        },
+        {
+          "word": "provocar",
+          "meaning": "to cause"
+        },
+        {
+          "word": "corazón",
+          "meaning": "heart"
+        },
+        {
+          "word": "imaginar",
+          "meaning": "to imagine"
+        },
+        {
+          "word": "principal",
+          "meaning": "principal"
+        },
+        {
+          "word": "presencia",
+          "meaning": "presence"
+        },
+        {
+          "word": "edad",
+          "meaning": "age"
+        },
+        {
+          "word": "referir",
+          "meaning": "to refer"
+        },
+        {
+          "word": "romper",
+          "meaning": "to break"
+        },
+        {
+          "word": "dentro de",
+          "meaning": "within, in"
+        },
+        {
+          "word": "medida",
+          "meaning": "measurement"
+        },
+        {
+          "word": "cultura",
+          "meaning": "culture"
+        },
+        {
+          "word": "mar",
+          "meaning": "sea"
+        },
+        {
+          "word": "cuestión",
+          "meaning": "matter, affair"
+        },
+        {
+          "word": "desear",
+          "meaning": "to wish"
+        },
+        {
+          "word": "menor",
+          "meaning": "minor"
+        },
+        {
+          "word": "resto",
+          "meaning": "rest"
+        },
+        {
+          "word": "faltar",
+          "meaning": "to lack"
+        },
+        {
+          "word": "teoría",
+          "meaning": "theory"
+        },
+        {
+          "word": "objeto",
+          "meaning": "object"
+        },
+        {
+          "word": "pesar",
+          "meaning": "to weigh"
+        },
+        {
+          "word": "allá",
+          "meaning": "there"
+        },
+        {
+          "word": "coche",
+          "meaning": "car, automobile, coach, carriage"
+        },
+        {
+          "word": "experiencia",
+          "meaning": "experience"
+        },
+        {
+          "word": "televisión",
+          "meaning": "television"
+        },
+        {
+          "word": "repetir",
+          "meaning": "to repeat"
+        },
+        {
+          "word": "enfermedad",
+          "meaning": "illness, disease, sickness"
+        },
+        {
+          "word": "espacio",
+          "meaning": "space"
+        },
+        {
+          "word": "países",
+          "meaning": "countries"
+        },
+        {
+          "word": "boca",
+          "meaning": "mouth"
+        },
+        {
+          "word": "extraño",
+          "meaning": "strange, foreign"
+        },
+        {
+          "word": "siguiente",
+          "meaning": "following, next"
+        },
+        {
+          "word": "añadir",
+          "meaning": "to add"
+        },
+        {
+          "word": "fácil",
+          "meaning": "easy"
+        },
+        {
+          "word": "cuarto",
+          "meaning": "quarter"
+        },
+        {
+          "word": "minuto",
+          "meaning": "minute"
+        },
+        {
+          "word": "ni siquiera",
+          "meaning": "not even"
+        },
+        {
+          "word": "miedo",
+          "meaning": "fear"
+        },
+        {
+          "word": "director",
+          "meaning": "director, manager"
+        },
+        {
+          "word": "rostro",
+          "meaning": "face"
+        },
+        {
+          "word": "pobre",
+          "meaning": "poor"
+        },
+        {
+          "word": "suelo",
+          "meaning": "ground, floor"
+        }
+      ]
+    },
+    {
+      "name": "501 - 550",
+      "words": [
+        {
+          "word": "continuar",
+          "meaning": "to continue"
+        },
+        {
+          "word": "recuerdo",
+          "meaning": "memory, remembrance"
+        },
+        {
+          "word": "diez",
+          "meaning": "ten"
+        },
+        {
+          "word": "servicio",
+          "meaning": "service"
+        },
+        {
+          "word": "falta",
+          "meaning": "lack"
+        },
+        {
+          "word": "evitar",
+          "meaning": "to avoid"
+        },
+        {
+          "word": "peor",
+          "meaning": "worse"
+        },
+        {
+          "word": "establecer",
+          "meaning": "to establish"
+        },
+        {
+          "word": "información",
+          "meaning": "information"
+        },
+        {
+          "word": "nivel",
+          "meaning": "level"
+        },
+        {
+          "word": "policía",
+          "meaning": "police"
+        },
+        {
+          "word": "nacional",
+          "meaning": "national"
+        },
+        {
+          "word": "frío",
+          "meaning": "cold, cool"
+        },
+        {
+          "word": "dónde",
+          "meaning": "where"
+        },
+        {
+          "word": "metro",
+          "meaning": "meter"
+        },
+        {
+          "word": "duro",
+          "meaning": "hard"
+        },
+        {
+          "word": "actividad",
+          "meaning": "activity"
+        },
+        {
+          "word": "lleno",
+          "meaning": "full"
+        },
+        {
+          "word": "época",
+          "meaning": "epoch, period"
+        },
+        {
+          "word": "marido",
+          "meaning": "husband"
+        },
+        {
+          "word": "seis",
+          "meaning": "six"
+        },
+        {
+          "word": "viaje",
+          "meaning": "travel"
+        },
+        {
+          "word": "suficiente",
+          "meaning": "enough"
+        },
+        {
+          "word": "hermano",
+          "meaning": "brother"
+        },
+        {
+          "word": "junto a",
+          "meaning": "next to"
+        },
+        {
+          "word": "necesidad",
+          "meaning": "necessity,need"
+        },
+        {
+          "word": "programa",
+          "meaning": "program"
+        },
+        {
+          "word": "a través de",
+          "meaning": "through, across"
+        },
+        {
+          "word": "profundo",
+          "meaning": "deep"
+        },
+        {
+          "word": "rey",
+          "meaning": "king"
+        },
+        {
+          "word": "bajar",
+          "meaning": "to bring down, lower, go down"
+        },
+        {
+          "word": "ministro",
+          "meaning": "minister"
+        },
+        {
+          "word": "pretender",
+          "meaning": "to try, court"
+        },
+        {
+          "word": "aspecto",
+          "meaning": "aspect"
+        },
+        {
+          "word": "asunto",
+          "meaning": "matter, bussiness"
+        },
+        {
+          "word": "oficial",
+          "meaning": "official"
+        },
+        {
+          "word": "es decir",
+          "meaning": "that is to say"
+        },
+        {
+          "word": "función",
+          "meaning": "function"
+        },
+        {
+          "word": "desarrollar",
+          "meaning": "to develop"
+        },
+        {
+          "word": "matar",
+          "meaning": "to kill"
+        },
+        {
+          "word": "sino que",
+          "meaning": "but that"
+        },
+        {
+          "word": "vuelta",
+          "meaning": "return"
+        },
+        {
+          "word": "carta",
+          "meaning": "letter"
+        },
+        {
+          "word": "preparar",
+          "meaning": "to prepare"
+        },
+        {
+          "word": "tercer",
+          "meaning": "third"
+        },
+        {
+          "word": "contemplar",
+          "meaning": "to contemplate"
+        },
+        {
+          "word": "cama",
+          "meaning": "bed"
+        },
+        {
+          "word": "desaparecer",
+          "meaning": "to disappear"
+        },
+        {
+          "word": "físico",
+          "meaning": "physical, physicist"
+        },
+        {
+          "word": "respuesta",
+          "meaning": "answer"
+        }
+      ]
+    },
+    {
+      "name": "551 - 600",
+      "words": [
+        {
+          "word": "completo",
+          "meaning": "complete, full"
+        },
+        {
+          "word": "miembro",
+          "meaning": "member"
+        },
+        {
+          "word": "permanecer",
+          "meaning": "to remain"
+        },
+        {
+          "word": "conocimiento",
+          "meaning": "knowlogde"
+        },
+        {
+          "word": "proyecto",
+          "meaning": "project"
+        },
+        {
+          "word": "acompañar",
+          "meaning": "to accompany"
+        },
+        {
+          "word": "española",
+          "meaning": "Spanish, spaniard"
+        },
+        {
+          "word": "hija",
+          "meaning": "daughter"
+        },
+        {
+          "word": "secreto",
+          "meaning": "secret"
+        },
+        {
+          "word": "gesto",
+          "meaning": "gesture"
+        },
+        {
+          "word": "negar",
+          "meaning": "to deny"
+        },
+        {
+          "word": "hallar",
+          "meaning": "to find, discover"
+        },
+        {
+          "word": "rápido",
+          "meaning": "rapid, quick"
+        },
+        {
+          "word": "opinión",
+          "meaning": "opinion"
+        },
+        {
+          "word": "diario",
+          "meaning": "newspaper"
+        },
+        {
+          "word": "naturaleza",
+          "meaning": "nature"
+        },
+        {
+          "word": "inmediato",
+          "meaning": "immediate"
+        },
+        {
+          "word": "representar",
+          "meaning": "to represent"
+        },
+        {
+          "word": "directo",
+          "meaning": "direct, straight"
+        },
+        {
+          "word": "tal vez",
+          "meaning": "perhaps"
+        },
+        {
+          "word": "enorme",
+          "meaning": "enormous"
+        },
+        {
+          "word": "piel",
+          "meaning": "skin"
+        },
+        {
+          "word": "ambos",
+          "meaning": "both"
+        },
+        {
+          "word": "ayudar",
+          "meaning": "to help"
+        },
+        {
+          "word": "dato",
+          "meaning": "data"
+        },
+        {
+          "word": "cubrir",
+          "meaning": "to cover"
+        },
+        {
+          "word": "personaje",
+          "meaning": "person"
+        },
+        {
+          "word": "definitivo",
+          "meaning": "definitive"
+        },
+        {
+          "word": "comprar",
+          "meaning": "to buy, purchase"
+        },
+        {
+          "word": "incluir",
+          "meaning": "to include"
+        },
+        {
+          "word": "producto",
+          "meaning": "product"
+        },
+        {
+          "word": "preferir",
+          "meaning": "to prefer"
+        },
+        {
+          "word": "crisis",
+          "meaning": "crisis"
+        },
+        {
+          "word": "grave",
+          "meaning": "grave, deep"
+        },
+        {
+          "word": "niña",
+          "meaning": "girl, child"
+        },
+        {
+          "word": "atención",
+          "meaning": "attention"
+        },
+        {
+          "word": "escritor",
+          "meaning": "writer"
+        },
+        {
+          "word": "común",
+          "meaning": "common"
+        },
+        {
+          "word": "capacidad",
+          "meaning": "capacity"
+        },
+        {
+          "word": "ventana",
+          "meaning": "window"
+        },
+        {
+          "word": "europa",
+          "meaning": "europe"
+        },
+        {
+          "word": "línea",
+          "meaning": "line"
+        },
+        {
+          "word": "unir",
+          "meaning": "to unite"
+        },
+        {
+          "word": "iniciar",
+          "meaning": "to initiate"
+        },
+        {
+          "word": "esfuerzo",
+          "meaning": "effort, endeavor, exertion"
+        },
+        {
+          "word": "comprobar",
+          "meaning": "to check"
+        },
+        {
+          "word": "europeo",
+          "meaning": "european"
+        },
+        {
+          "word": "objetivo",
+          "meaning": "objective"
+        },
+        {
+          "word": "proponer",
+          "meaning": "to propose, nominate"
+        },
+        {
+          "word": "puro",
+          "meaning": "pure"
+        }
+      ]
+    },
+    {
+      "name": "601 - 650",
+      "words": [
+        {
+          "word": "conjunto",
+          "meaning": "joint, outfit, band"
+        },
+        {
+          "word": "elección",
+          "meaning": "election"
+        },
+        {
+          "word": "instante",
+          "meaning": "moment, instant"
+        },
+        {
+          "word": "jamás",
+          "meaning": "never"
+        },
+        {
+          "word": "estudiar",
+          "meaning": "to study"
+        },
+        {
+          "word": "barcelona",
+          "meaning": "barcelona"
+        },
+        {
+          "word": "operación",
+          "meaning": "operation"
+        },
+        {
+          "word": "comentar",
+          "meaning": "to comment, discuss, mention"
+        },
+        {
+          "word": "reducir",
+          "meaning": "to reduce"
+        },
+        {
+          "word": "elemento",
+          "meaning": "element"
+        },
+        {
+          "word": "diferencia",
+          "meaning": "difference"
+        },
+        {
+          "word": "pared",
+          "meaning": "wall"
+        },
+        {
+          "word": "recoger",
+          "meaning": "to gather, pick up"
+        },
+        {
+          "word": "rojo",
+          "meaning": "red"
+        },
+        {
+          "word": "arte",
+          "meaning": "art"
+        },
+        {
+          "word": "socialista",
+          "meaning": "socialist"
+        },
+        {
+          "word": "causa",
+          "meaning": "cause, reason"
+        },
+        {
+          "word": "colocar",
+          "meaning": "to place, put"
+        },
+        {
+          "word": "sonreír",
+          "meaning": "to smile"
+        },
+        {
+          "word": "aprender",
+          "meaning": "to learn"
+        },
+        {
+          "word": "guardar",
+          "meaning": "to keep"
+        },
+        {
+          "word": "carrera",
+          "meaning": "running"
+        },
+        {
+          "word": "actuar",
+          "meaning": "to act"
+        },
+        {
+          "word": "imposible",
+          "meaning": "impossible"
+        },
+        {
+          "word": "golpe",
+          "meaning": "blow"
+        },
+        {
+          "word": "célula",
+          "meaning": "cell"
+        },
+        {
+          "word": "deseo",
+          "meaning": "desire"
+        },
+        {
+          "word": "autor",
+          "meaning": "author"
+        },
+        {
+          "word": "reír",
+          "meaning": "to laugh"
+        },
+        {
+          "word": "aquello",
+          "meaning": "that"
+        },
+        {
+          "word": "existencia",
+          "meaning": "existence"
+        },
+        {
+          "word": "situar",
+          "meaning": "to locate"
+        },
+        {
+          "word": "diverso",
+          "meaning": "diverse"
+        },
+        {
+          "word": "término",
+          "meaning": "term"
+        },
+        {
+          "word": "poseer",
+          "meaning": "to posses, own"
+        },
+        {
+          "word": "vestir",
+          "meaning": "to dress"
+        },
+        {
+          "word": "quitar",
+          "meaning": "to remove, take away"
+        },
+        {
+          "word": "riesgo",
+          "meaning": "risk"
+        },
+        {
+          "word": "compañero",
+          "meaning": "partner, companion"
+        },
+        {
+          "word": "lanzar",
+          "meaning": "to throw"
+        },
+        {
+          "word": "publicar",
+          "meaning": "to publish"
+        },
+        {
+          "word": "acto",
+          "meaning": "act"
+        },
+        {
+          "word": "interesar",
+          "meaning": "to interest"
+        },
+        {
+          "word": "motivo",
+          "meaning": "reason"
+        },
+        {
+          "word": "jefe",
+          "meaning": "chief, leader, boss"
+        },
+        {
+          "word": "afectar",
+          "meaning": "to affect"
+        },
+        {
+          "word": "oscuro",
+          "meaning": "dark, obscure"
+        },
+        {
+          "word": "moral",
+          "meaning": "moral"
+        },
+        {
+          "word": "cielo",
+          "meaning": "sky, heaven"
+        },
+        {
+          "word": "enterar",
+          "meaning": "to find out, inform"
+        }
+      ]
+    },
+    {
+      "name": "651 - 700",
+      "words": [
+        {
+          "word": "novela",
+          "meaning": "novel"
+        },
+        {
+          "word": "serio",
+          "meaning": "serious"
+        },
+        {
+          "word": "casar",
+          "meaning": "to marry"
+        },
+        {
+          "word": "marcar",
+          "meaning": "to mark"
+        },
+        {
+          "word": "despertar",
+          "meaning": "to wake up"
+        },
+        {
+          "word": "vista",
+          "meaning": "vision"
+        },
+        {
+          "word": "superior",
+          "meaning": "superior"
+        },
+        {
+          "word": "lengua",
+          "meaning": "language, tongue"
+        },
+        {
+          "word": "energía",
+          "meaning": "energy"
+        },
+        {
+          "word": "con que",
+          "meaning": "so long as"
+        },
+        {
+          "word": "cine",
+          "meaning": "cinema, movies"
+        },
+        {
+          "word": "decisión",
+          "meaning": "decision"
+        },
+        {
+          "word": "atrás",
+          "meaning": "back, behind"
+        },
+        {
+          "word": "crecer",
+          "meaning": "to grow, increase"
+        },
+        {
+          "word": "río",
+          "meaning": "river"
+        },
+        {
+          "word": "consecuencia",
+          "meaning": "consequence"
+        },
+        {
+          "word": "dedo",
+          "meaning": "finger, toe"
+        },
+        {
+          "word": "bastar",
+          "meaning": "to be enough, suffice"
+        },
+        {
+          "word": "significar",
+          "meaning": "to mean"
+        },
+        {
+          "word": "alma",
+          "meaning": "soul"
+        },
+        {
+          "word": "noticia",
+          "meaning": "the news"
+        },
+        {
+          "word": "anunciar",
+          "meaning": "to announce"
+        },
+        {
+          "word": "elegir",
+          "meaning": "to choose, select"
+        },
+        {
+          "word": "normal",
+          "meaning": "normal"
+        },
+        {
+          "word": "reciente",
+          "meaning": "recent"
+        },
+        {
+          "word": "varias",
+          "meaning": "several"
+        },
+        {
+          "word": "cantidad",
+          "meaning": "quantity"
+        },
+        {
+          "word": "limitar",
+          "meaning": "to limit"
+        },
+        {
+          "word": "iglesia",
+          "meaning": "church"
+        },
+        {
+          "word": "contestar",
+          "meaning": "to answer, reply"
+        },
+        {
+          "word": "dolor",
+          "meaning": "pain"
+        },
+        {
+          "word": "regresar",
+          "meaning": "to return, come back"
+        },
+        {
+          "word": "carácter",
+          "meaning": "character"
+        },
+        {
+          "word": "entregar",
+          "meaning": "to deliver, give"
+        },
+        {
+          "word": "habitación",
+          "meaning": "room, bedroom"
+        },
+        {
+          "word": "parar",
+          "meaning": "to stop, stand"
+        },
+        {
+          "word": "enfermo",
+          "meaning": "ill, sick"
+        },
+        {
+          "word": "pelo",
+          "meaning": "hair"
+        },
+        {
+          "word": "seguridad",
+          "meaning": "security"
+        },
+        {
+          "word": "modelo",
+          "meaning": "model"
+        },
+        {
+          "word": "cruzar",
+          "meaning": "to cross"
+        },
+        {
+          "word": "conducir",
+          "meaning": "to drive"
+        },
+        {
+          "word": "origen",
+          "meaning": "origin"
+        },
+        {
+          "word": "pleno",
+          "meaning": "full, complete"
+        },
+        {
+          "word": "valer",
+          "meaning": "to be worth"
+        },
+        {
+          "word": "importar",
+          "meaning": "to matter, be important"
+        },
+        {
+          "word": "labio",
+          "meaning": "lip"
+        },
+        {
+          "word": "así como",
+          "meaning": "as well as, such, like that"
+        },
+        {
+          "word": "material",
+          "meaning": "material"
+        },
+        {
+          "word": "chico",
+          "meaning": "boy, girl"
+        }
+      ]
+    },
+    {
+      "name": "701 - 750",
+      "words": [
+        {
+          "word": "tirar",
+          "meaning": "to throw"
+        },
+        {
+          "word": "advertir",
+          "meaning": "to notice, warn"
+        },
+        {
+          "word": "sombra",
+          "meaning": "shadow"
+        },
+        {
+          "word": "acudir",
+          "meaning": "to go, come"
+        },
+        {
+          "word": "impedir",
+          "meaning": "to prevent"
+        },
+        {
+          "word": "particular",
+          "meaning": "particular, private"
+        },
+        {
+          "word": "indicar",
+          "meaning": "to indicate"
+        },
+        {
+          "word": "paciente",
+          "meaning": "patient"
+        },
+        {
+          "word": "mediante",
+          "meaning": "by means of"
+        },
+        {
+          "word": "pregunta",
+          "meaning": "a question"
+        },
+        {
+          "word": "espalda",
+          "meaning": "back"
+        },
+        {
+          "word": "fuente",
+          "meaning": "source"
+        },
+        {
+          "word": "gracia",
+          "meaning": "grace"
+        },
+        {
+          "word": "privar",
+          "meaning": "deprive"
+        },
+        {
+          "word": "histórico",
+          "meaning": "historical"
+        },
+        {
+          "word": "fijar",
+          "meaning": "to faten, affix"
+        },
+        {
+          "word": "jugador",
+          "meaning": "player, gambler"
+        },
+        {
+          "word": "mercado",
+          "meaning": "market"
+        },
+        {
+          "word": "éxito",
+          "meaning": "success"
+        },
+        {
+          "word": "expresión",
+          "meaning": "expression"
+        },
+        {
+          "word": "celebrar",
+          "meaning": "to celebrate"
+        },
+        {
+          "word": "figura",
+          "meaning": "to figure"
+        },
+        {
+          "word": "figura",
+          "meaning": "figure, shape"
+        },
+        {
+          "word": "profesional",
+          "meaning": "professional"
+        },
+        {
+          "word": "rodear",
+          "meaning": "to surround, encircle"
+        },
+        {
+          "word": "cultural",
+          "meaning": "cultural"
+        },
+        {
+          "word": "vacío",
+          "meaning": "empty"
+        },
+        {
+          "word": "par",
+          "meaning": "pair, couple"
+        },
+        {
+          "word": "usar",
+          "meaning": "to use"
+        },
+        {
+          "word": "construir",
+          "meaning": "to construct, build"
+        },
+        {
+          "word": "paz",
+          "meaning": "peace"
+        },
+        {
+          "word": "coger",
+          "meaning": "to take"
+        },
+        {
+          "word": "práctico",
+          "meaning": "practical"
+        },
+        {
+          "word": "base",
+          "meaning": "base, basis"
+        },
+        {
+          "word": "profesor",
+          "meaning": "professor, teacher"
+        },
+        {
+          "word": "sensación",
+          "meaning": "sensation, feeling"
+        },
+        {
+          "word": "aumentar",
+          "meaning": "to increase, raise"
+        },
+        {
+          "word": "inglés",
+          "meaning": "english"
+        },
+        {
+          "word": "chica",
+          "meaning": "small, girl,litlle"
+        },
+        {
+          "word": "convencer",
+          "meaning": "to convince"
+        },
+        {
+          "word": "siete",
+          "meaning": "seven"
+        },
+        {
+          "word": "sonar",
+          "meaning": "to sound"
+        },
+        {
+          "word": "marcha",
+          "meaning": "march"
+        },
+        {
+          "word": "defender",
+          "meaning": "to defend"
+        },
+        {
+          "word": "plaza",
+          "meaning": "seat, square"
+        },
+        {
+          "word": "responsable",
+          "meaning": "responsible"
+        },
+        {
+          "word": "moderno",
+          "meaning": "modern"
+        },
+        {
+          "word": "probable",
+          "meaning": "probable"
+        },
+        {
+          "word": "caber",
+          "meaning": "to fit, go into"
+        },
+        {
+          "word": "imponer",
+          "meaning": "to impose, command"
+        }
+      ]
+    },
+    {
+      "name": "751 - 800",
+      "words": [
+        {
+          "word": "presente",
+          "meaning": "present"
+        },
+        {
+          "word": "suerte",
+          "meaning": "luck"
+        },
+        {
+          "word": "ciudadano",
+          "meaning": "citizen"
+        },
+        {
+          "word": "comunicación",
+          "meaning": "communication"
+        },
+        {
+          "word": "posición",
+          "meaning": "position"
+        },
+        {
+          "word": "sitio",
+          "meaning": "place, site"
+        },
+        {
+          "word": "defensa",
+          "meaning": "defense"
+        },
+        {
+          "word": "serie",
+          "meaning": "series"
+        },
+        {
+          "word": "uso",
+          "meaning": "use"
+        },
+        {
+          "word": "azul",
+          "meaning": "blue"
+        },
+        {
+          "word": "música",
+          "meaning": "music"
+        },
+        {
+          "word": "pasado",
+          "meaning": "past"
+        },
+        {
+          "word": "actitud",
+          "meaning": "attitude"
+        },
+        {
+          "word": "aun",
+          "meaning": "even"
+        },
+        {
+          "word": "gritar",
+          "meaning": "to shout, scream"
+        },
+        {
+          "word": "familiar",
+          "meaning": "familial, family"
+        },
+        {
+          "word": "prensa",
+          "meaning": "press"
+        },
+        {
+          "word": "mandar",
+          "meaning": "to command"
+        },
+        {
+          "word": "contrario",
+          "meaning": "opposite"
+        },
+        {
+          "word": "sexual",
+          "meaning": "sexual"
+        },
+        {
+          "word": "corresponder",
+          "meaning": "to correspond, belong"
+        },
+        {
+          "word": "importancia",
+          "meaning": "importance"
+        },
+        {
+          "word": "altura",
+          "meaning": "height"
+        },
+        {
+          "word": "exigir",
+          "meaning": "to demand"
+        },
+        {
+          "word": "sector",
+          "meaning": "sector"
+        },
+        {
+          "word": "solución",
+          "meaning": "solution"
+        },
+        {
+          "word": "encima",
+          "meaning": "on top"
+        },
+        {
+          "word": "llorar",
+          "meaning": "to cry, weep"
+        },
+        {
+          "word": "técnica",
+          "meaning": "technique"
+        },
+        {
+          "word": "desarrollo",
+          "meaning": "development"
+        },
+        {
+          "word": "pierna",
+          "meaning": "leg"
+        },
+        {
+          "word": "frase",
+          "meaning": "phrase"
+        },
+        {
+          "word": "sonrisa",
+          "meaning": "smile"
+        },
+        {
+          "word": "encuentro",
+          "meaning": "encounter, meeting"
+        },
+        {
+          "word": "ayuda",
+          "meaning": "aid, help"
+        },
+        {
+          "word": "norteamericano",
+          "meaning": "North American"
+        },
+        {
+          "word": "apoyar",
+          "meaning": "to support, lean"
+        },
+        {
+          "word": "contener",
+          "meaning": "to contain"
+        },
+        {
+          "word": "estructura",
+          "meaning": "structure"
+        },
+        {
+          "word": "precio",
+          "meaning": "price, cost"
+        },
+        {
+          "word": "conversación",
+          "meaning": "conversation"
+        },
+        {
+          "word": "lucha",
+          "meaning": "fight, struggle"
+        },
+        {
+          "word": "temer",
+          "meaning": "to fear"
+        },
+        {
+          "word": "ciento",
+          "meaning": "one hundred"
+        },
+        {
+          "word": "concreto",
+          "meaning": "concrete, specific"
+        },
+        {
+          "word": "compañía",
+          "meaning": "company"
+        },
+        {
+          "word": "ocho",
+          "meaning": "eight"
+        },
+        {
+          "word": "arma",
+          "meaning": "weapon"
+        },
+        {
+          "word": "encender",
+          "meaning": "to light, switch on, set fire to"
+        },
+        {
+          "word": "piedra",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "name": "801 - 850",
+      "words": [
+        {
+          "word": "pareja",
+          "meaning": "even, couple, pair"
+        },
+        {
+          "word": "exacto",
+          "meaning": "exact"
+        },
+        {
+          "word": "cabo",
+          "meaning": "end, stub"
+        },
+        {
+          "word": "conciencia",
+          "meaning": "conscience"
+        },
+        {
+          "word": "elevar",
+          "meaning": "to elevate, raise"
+        },
+        {
+          "word": "preocupar",
+          "meaning": "to worry"
+        },
+        {
+          "word": "verde",
+          "meaning": "green"
+        },
+        {
+          "word": "verano",
+          "meaning": "summer"
+        },
+        {
+          "word": "surgir",
+          "meaning": "to arise"
+        },
+        {
+          "word": "beber",
+          "meaning": "to drink"
+        },
+        {
+          "word": "consistir",
+          "meaning": "to consist"
+        },
+        {
+          "word": "dios",
+          "meaning": "god, goddes"
+        },
+        {
+          "word": "extremo",
+          "meaning": "extreme"
+        },
+        {
+          "word": "perro",
+          "meaning": "dog, bitch"
+        },
+        {
+          "word": "voluntad",
+          "meaning": "will"
+        },
+        {
+          "word": "doctor",
+          "meaning": "doctor"
+        },
+        {
+          "word": "ejemplo",
+          "meaning": "example"
+        },
+        {
+          "word": "avanzar",
+          "meaning": "to advance"
+        },
+        {
+          "word": "fundamental",
+          "meaning": "fundamental"
+        },
+        {
+          "word": "plantear",
+          "meaning": "to expound, raise"
+        },
+        {
+          "word": "separar",
+          "meaning": "to separate"
+        },
+        {
+          "word": "escapar",
+          "meaning": "to escape, run away"
+        },
+        {
+          "word": "estados unidos",
+          "meaning": "united States"
+        },
+        {
+          "word": "notar",
+          "meaning": "to notice"
+        },
+        {
+          "word": "insistir",
+          "meaning": "to insist"
+        },
+        {
+          "word": "arriba",
+          "meaning": "up"
+        },
+        {
+          "word": "cuál",
+          "meaning": "which, what"
+        },
+        {
+          "word": "máximo",
+          "meaning": "maximum"
+        },
+        {
+          "word": "salida",
+          "meaning": "exit, departure"
+        },
+        {
+          "word": "cadena",
+          "meaning": "chain"
+        },
+        {
+          "word": "pertenecer",
+          "meaning": "to belong to"
+        },
+        {
+          "word": "resolver",
+          "meaning": "to solve"
+        },
+        {
+          "word": "vender",
+          "meaning": "to sell"
+        },
+        {
+          "word": "periodista",
+          "meaning": "journalist"
+        },
+        {
+          "word": "desconocer",
+          "meaning": "to not know, fail to recognize"
+        },
+        {
+          "word": "pena",
+          "meaning": "pain, penalty"
+        },
+        {
+          "word": "revista",
+          "meaning": "magazine"
+        },
+        {
+          "word": "vecino",
+          "meaning": "neighbor"
+        },
+        {
+          "word": "vivo",
+          "meaning": "alive"
+        },
+        {
+          "word": "abajo",
+          "meaning": "down, below, downstairs"
+        },
+        {
+          "word": "partir",
+          "meaning": "to start off, depart, slipt, divide"
+        },
+        {
+          "word": "rato",
+          "meaning": "short while"
+        },
+        {
+          "word": "izquierda",
+          "meaning": "left"
+        },
+        {
+          "word": "placer",
+          "meaning": "to please"
+        },
+        {
+          "word": "sentimiento",
+          "meaning": "feeling"
+        },
+        {
+          "word": "sentimiento",
+          "meaning": "feeling"
+        },
+        {
+          "word": "someter",
+          "meaning": "to subjugate"
+        },
+        {
+          "word": "adquirir",
+          "meaning": "to acquire"
+        },
+        {
+          "word": "cantar",
+          "meaning": "to sing"
+        },
+        {
+          "word": "atreverse",
+          "meaning": "to dare"
+        }
+      ]
+    },
+    {
+      "name": "851 - 900",
+      "words": [
+        {
+          "word": "carne",
+          "meaning": "meat"
+        },
+        {
+          "word": "distancia",
+          "meaning": "distance"
+        },
+        {
+          "word": "peso",
+          "meaning": "weight"
+        },
+        {
+          "word": "definir",
+          "meaning": "to define"
+        },
+        {
+          "word": "esperanza",
+          "meaning": "hope, prospect"
+        },
+        {
+          "word": "mientras que",
+          "meaning": "whereas, while"
+        },
+        {
+          "word": "población",
+          "meaning": "population"
+        },
+        {
+          "word": "peligro",
+          "meaning": "danger"
+        },
+        {
+          "word": "control",
+          "meaning": "control, check"
+        },
+        {
+          "word": "mundial",
+          "meaning": "worldwide"
+        },
+        {
+          "word": "pensamiento",
+          "meaning": "thought"
+        },
+        {
+          "word": "democracia",
+          "meaning": "democracy"
+        },
+        {
+          "word": "reunir",
+          "meaning": "to unite, join"
+        },
+        {
+          "word": "justo",
+          "meaning": "just, fair"
+        },
+        {
+          "word": "enseñar",
+          "meaning": "to teach"
+        },
+        {
+          "word": "autoridad",
+          "meaning": "authority"
+        },
+        {
+          "word": "civil",
+          "meaning": "civil"
+        },
+        {
+          "word": "declarar",
+          "meaning": "to declare"
+        },
+        {
+          "word": "gusto",
+          "meaning": "taste, pleasure, liking"
+        },
+        {
+          "word": "masa",
+          "meaning": "mass"
+        },
+        {
+          "word": "merecer",
+          "meaning": "to deserve"
+        },
+        {
+          "word": "espíritu",
+          "meaning": "spirit"
+        },
+        {
+          "word": "sostener",
+          "meaning": "to maintain, support, hold"
+        },
+        {
+          "word": "técnico",
+          "meaning": "technician"
+        },
+        {
+          "word": "sorprender",
+          "meaning": "to surprise"
+        },
+        {
+          "word": "alemán",
+          "meaning": "german"
+        },
+        {
+          "word": "corriente",
+          "meaning": "current"
+        },
+        {
+          "word": "veinte",
+          "meaning": "twenty"
+        },
+        {
+          "word": "evidente",
+          "meaning": "evident"
+        },
+        {
+          "word": "semejante",
+          "meaning": "similar"
+        },
+        {
+          "word": "abuelo",
+          "meaning": "grandfathers, grandpa"
+        },
+        {
+          "word": "circunstancia",
+          "meaning": "circumstance"
+        },
+        {
+          "word": "flor",
+          "meaning": "flower"
+        },
+        {
+          "word": "internacional",
+          "meaning": "international"
+        },
+        {
+          "word": "plan",
+          "meaning": "plan"
+        },
+        {
+          "word": "caballo",
+          "meaning": "horse"
+        },
+        {
+          "word": "dificultad",
+          "meaning": "difficulty"
+        },
+        {
+          "word": "habitual",
+          "meaning": "habitual, usual"
+        },
+        {
+          "word": "página",
+          "meaning": "page"
+        },
+        {
+          "word": "cuadro",
+          "meaning": "picture, square, painting"
+        },
+        {
+          "word": "aprovechar",
+          "meaning": "to take advantage of"
+        },
+        {
+          "word": "exterior",
+          "meaning": "outside, exterior"
+        },
+        {
+          "word": "hombro",
+          "meaning": "shoulder"
+        },
+        {
+          "word": "puesto",
+          "meaning": "position, place"
+        },
+        {
+          "word": "etapa",
+          "meaning": "stage"
+        },
+        {
+          "word": "régimen",
+          "meaning": "regime"
+        },
+        {
+          "word": "caminar",
+          "meaning": "to walk"
+        },
+        {
+          "word": "capital",
+          "meaning": "capital"
+        },
+        {
+          "word": "francia",
+          "meaning": "france"
+        },
+        {
+          "word": "tono",
+          "meaning": "tone"
+        }
+      ]
+    },
+    {
+      "name": "901 - 950",
+      "words": [
+        {
+          "word": "cortar",
+          "meaning": "to cut"
+        },
+        {
+          "word": "perfecto",
+          "meaning": "perfect"
+        },
+        {
+          "word": "superar",
+          "meaning": "to surpass"
+        },
+        {
+          "word": "viento",
+          "meaning": "wind"
+        },
+        {
+          "word": "alejar",
+          "meaning": "to move away, remove"
+        },
+        {
+          "word": "ejército",
+          "meaning": "army"
+        },
+        {
+          "word": "ejército",
+          "meaning": "army"
+        },
+        {
+          "word": "destino",
+          "meaning": "destiny, destination"
+        },
+        {
+          "word": "método",
+          "meaning": "method"
+        },
+        {
+          "word": "texto",
+          "meaning": "text"
+        },
+        {
+          "word": "amar",
+          "meaning": "to love"
+        },
+        {
+          "word": "dirección",
+          "meaning": "address, direction"
+        },
+        {
+          "word": "individuo",
+          "meaning": "individual"
+        },
+        {
+          "word": "cerebro",
+          "meaning": "brain"
+        },
+        {
+          "word": "entrada",
+          "meaning": "entrance, entry"
+        },
+        {
+          "word": "unidad",
+          "meaning": "unit"
+        },
+        {
+          "word": "además de",
+          "meaning": "in addition to, besides, furthermore"
+        },
+        {
+          "word": "aplicar",
+          "meaning": "to apply"
+        },
+        {
+          "word": "lento",
+          "meaning": "slow"
+        },
+        {
+          "word": "concepto",
+          "meaning": "concept"
+        },
+        {
+          "word": "famoso",
+          "meaning": "famous"
+        },
+        {
+          "word": "llenar",
+          "meaning": "to fill"
+        },
+        {
+          "word": "máquina",
+          "meaning": "machine"
+        },
+        {
+          "word": "mínimo",
+          "meaning": "minimum"
+        },
+        {
+          "word": "rico",
+          "meaning": "rich"
+        },
+        {
+          "word": "tío",
+          "meaning": "uncle"
+        },
+        {
+          "word": "hermana",
+          "meaning": "sister"
+        },
+        {
+          "word": "tarea",
+          "meaning": "homewrok"
+        },
+        {
+          "word": "adelante",
+          "meaning": "ahead"
+        },
+        {
+          "word": "central",
+          "meaning": "central"
+        },
+        {
+          "word": "derecha",
+          "meaning": "right"
+        },
+        {
+          "word": "sexo",
+          "meaning": "sex"
+        },
+        {
+          "word": "funcionar",
+          "meaning": "to work, run, function"
+        },
+        {
+          "word": "título",
+          "meaning": "title"
+        },
+        {
+          "word": "fútbol",
+          "meaning": "soccer, football"
+        },
+        {
+          "word": "introducir",
+          "meaning": "to introduce, insert"
+        },
+        {
+          "word": "doble",
+          "meaning": "double"
+        },
+        {
+          "word": "árbol",
+          "meaning": "tree"
+        },
+        {
+          "word": "muchacho",
+          "meaning": "boy"
+        },
+        {
+          "word": "extender",
+          "meaning": "to extend"
+        },
+        {
+          "word": "extranjero",
+          "meaning": "foreigner, foreign"
+        },
+        {
+          "word": "a partir de",
+          "meaning": "from, as of"
+        },
+        {
+          "word": "mitad",
+          "meaning": "half"
+        },
+        {
+          "word": "amplio",
+          "meaning": "ample"
+        },
+        {
+          "word": "mío",
+          "meaning": "mine"
+        },
+        {
+          "word": "acordar",
+          "meaning": "to decide"
+        },
+        {
+          "word": "marchar",
+          "meaning": "to march"
+        },
+        {
+          "word": "oro",
+          "meaning": "gold"
+        },
+        {
+          "word": "cuánto",
+          "meaning": "how much"
+        },
+        {
+          "word": "recorrer",
+          "meaning": "to cross, travel through"
+        }
+      ]
+    },
+    {
+      "name": "951 - 1000",
+      "words": [
+        {
+          "word": "reunión",
+          "meaning": "meeting"
+        },
+        {
+          "word": "participar",
+          "meaning": "to participate"
+        },
+        {
+          "word": "pecho",
+          "meaning": "chest"
+        },
+        {
+          "word": "americano",
+          "meaning": "american"
+        },
+        {
+          "word": "lector",
+          "meaning": "reader"
+        },
+        {
+          "word": "varios",
+          "meaning": "several"
+        },
+        {
+          "word": "violencia",
+          "meaning": "violence"
+        },
+        {
+          "word": "acaso",
+          "meaning": "perhaps, maybe"
+        },
+        {
+          "word": "ropa",
+          "meaning": "clothes"
+        },
+        {
+          "word": "tía",
+          "meaning": "aunt"
+        },
+        {
+          "word": "frecuencia",
+          "meaning": "frequency"
+        },
+        {
+          "word": "conservar",
+          "meaning": "to conserve"
+        },
+        {
+          "word": "sala",
+          "meaning": "room, living room"
+        },
+        {
+          "word": "auténtico",
+          "meaning": "authentic"
+        },
+        {
+          "word": "fuera de",
+          "meaning": "outside of, beyond"
+        },
+        {
+          "word": "recuperar",
+          "meaning": "to recover"
+        },
+        {
+          "word": "error",
+          "meaning": "error, mistake"
+        },
+        {
+          "word": "barrio",
+          "meaning": "neighborhood"
+        },
+        {
+          "word": "estrella",
+          "meaning": "star"
+        },
+        {
+          "word": "hermoso",
+          "meaning": "beautiful"
+        },
+        {
+          "word": "religioso",
+          "meaning": "religious"
+        },
+        {
+          "word": "contacto",
+          "meaning": "contact"
+        },
+        {
+          "word": "radio",
+          "meaning": "radio"
+        },
+        {
+          "word": "desde que",
+          "meaning": "since"
+        },
+        {
+          "word": "enviar",
+          "meaning": "to send"
+        },
+        {
+          "word": "informar",
+          "meaning": "to inform"
+        },
+        {
+          "word": "informar",
+          "meaning": "to inform"
+        },
+        {
+          "word": "loco",
+          "meaning": "crazy, insane"
+        },
+        {
+          "word": "menudo",
+          "meaning": "small, insignificant"
+        },
+        {
+          "word": "análisis",
+          "meaning": "analysis"
+        },
+        {
+          "word": "campaña",
+          "meaning": "countryside"
+        },
+        {
+          "word": "constante",
+          "meaning": "constant"
+        },
+        {
+          "word": "fenómeno",
+          "meaning": "phenomenon"
+        },
+        {
+          "word": "fiesta",
+          "meaning": "celebration, party"
+        },
+        {
+          "word": "fuego",
+          "meaning": "fire"
+        },
+        {
+          "word": "controlar",
+          "meaning": "to control"
+        },
+        {
+          "word": "juicio",
+          "meaning": "judgment, sense"
+        },
+        {
+          "word": "piso",
+          "meaning": "floor"
+        },
+        {
+          "word": "catalán",
+          "meaning": "catalan"
+        },
+        {
+          "word": "junto",
+          "meaning": "together, joined, close"
+        },
+        {
+          "word": "lenguaje",
+          "meaning": "language"
+        },
+        {
+          "word": "literatura",
+          "meaning": "literature"
+        },
+        {
+          "word": "negocio",
+          "meaning": "business"
+        },
+        {
+          "word": "velocidad",
+          "meaning": "speed"
+        },
+        {
+          "word": "así que",
+          "meaning": "so, therefore"
+        },
+        {
+          "word": "costumbre",
+          "meaning": "custom, habit"
+        },
+        {
+          "word": "depender",
+          "meaning": "to depend"
+        },
+        {
+          "word": "manifestar",
+          "meaning": "to declare"
+        },
+        {
+          "word": "materia",
+          "meaning": "matter"
+        },
+        {
+          "word": "tender",
+          "meaning": "to strech out"
+        }
+      ]
+    }
+  ]
+}
